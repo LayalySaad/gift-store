@@ -112,7 +112,7 @@ header .fa-bars {
 
 /* ===== الصفحة الرئيسية ===== */
 .home {
-    background-image: url(""photo/FB_IMG_1702234428412.jpg") ;
+    background-image: url("photo/FB_IMG_1702234428412.jpg") ;
     display: flex;
     align-items: center;
     min-height: 100vh;
